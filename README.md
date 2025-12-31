@@ -16,10 +16,14 @@ I'm a Software Engineer with a background in Information Systems and hands-on ex
 - **Tools:** Git, GitHub, REST APIs
 
 ## 📂 Featured Projects
-- **Jalsa Q&A Game** – Two-player trivia game built with HTML, CSS, and JavaScript  
-- **MotorNotes** – Full-stack automotive blog with authentication and CRUD functionality  
+- **Jalsa Q&A Game** – Two-player trivia game built with HTML, CSS, and JavaScript
+- - Live Demo:https://ali-albanna1.github.io/jalsa-q-and-a-game/
+  - Repo:https://github.com/Ali-Albanna1/jalsa-q-and-a-game 
+- **MotorNotes** – Full-stack automotive blog with authentication and CRUD functionality
+- Link To Website:https://motor-notes.onrender.com
+- Repo:https://github.com/Ali-Albanna1/motor-notes
 - **Rewards App** – Mobile loyalty app built using React Native and Expo
 
 ## 🔗 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINK
-- Email: your.email@gmail.com
+- LinkedIn: www.linkedin.com/in/alialbanna1
+- Email: ali.albanna015@gmail.com

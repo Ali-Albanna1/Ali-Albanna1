@@ -25,7 +25,7 @@ I'm a Software Engineer with a background in Information Systems and hands-on ex
 - [Repo](https://github.com/Ali-Albanna1/motor-notes)
   
 - **TradeMon** -Pokémon Trading Platform (MERN Stack): Built a secure full-stack trading application with JWT authentication, ownership-based authorization, RESTful APIs, and dynamic React UI. Enforced backend business rules to prevent invalid trades and handled complex state management and React hook edge cases.
-- [Front-End Repo](https://github.com/alizulfiqarbuksh/TradeMon-front-end).
+- [Front-End Repo](https://github.com/alizulfiqarbuksh/TradeMon-front-end)
 - [Back-End Repo](https://github.com/alizulfiqarbuksh/TradeMon-back-end)
   
 - **Rewards App** – Mobile loyalty app:

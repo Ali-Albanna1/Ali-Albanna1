@@ -24,15 +24,15 @@ I'm a Software Engineer with a background in Information Systems and hands-on ex
 - [Link To Website](https://motor-notes.onrender.com)
 - [Repo](https://github.com/Ali-Albanna1/motor-notes)
   
-- **TradeMon** -Pokémon Trading Platform (MERN Stack) : Built a secure full-stack trading application with JWT authentication, ownership-based authorization, RESTful APIs, and dynamic React UI. Enforced backend business rules to prevent invalid trades and handled complex state management and React hook edge cases.
-- [Front-End Repo]([https://github.com/Ali-Albanna1/motor-notes](https://github.com/alizulfiqarbuksh/TradeMon-front-end).
+- **TradeMon** -Pokémon Trading Platform (MERN Stack): Built a secure full-stack trading application with JWT authentication, ownership-based authorization, RESTful APIs, and dynamic React UI. Enforced backend business rules to prevent invalid trades and handled complex state management and React hook edge cases.
+- [Front-End Repo](https://github.com/alizulfiqarbuksh/TradeMon-front-end).
 - [Back-End Repo](https://github.com/alizulfiqarbuksh/TradeMon-back-end)
   
 - **Rewards App** – Mobile loyalty app:
-*Developed front-end components for a rewards mobile application using React Native and Expo.
-*Applied UI/UX best practices to improve usability and user experience.
-*Used Git and GitHub for version control and team collaboration.
-*Participated in testing, feedback, and iterative improvements.
+* Developed front-end components for a rewards mobile application using React Native and Expo.
+* Applied UI/UX best practices to improve usability and user experience.
+* Used Git and GitHub for version control and team collaboration.
+* Participated in testing, feedback, and iterative improvements.
 
 ## 🔗 Connect With Me
 - LinkedIn: www.linkedin.com/in/alialbanna1
